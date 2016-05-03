@@ -24,8 +24,8 @@ Neural Networks: Learning
 **Exercise 4**  
 
 ## Week 6  
-Advice for Applying Machine Learning
-Machine Learning System Design
+Advice for Applying Machine Learning  
+Machine Learning System Design  
 **Exercise 5**  
 
 ## Week 7  
